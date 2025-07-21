@@ -1,0 +1,21 @@
+C++ Programming Language
+
+C++ is a computer programming language developed by Bjarne Stroustrup as an extension of the C language.
+
+It is known for is fast speed, low level memory management and is often taught as first programming language. 
+It provides:
+    1) Hands-on application of different programming concepts.
+    2) Similar syntax to C and other popular languages making it easier to switch.
+
+Example Program
+The below code shows the simplest C++ program that you can run to print some text on the console screen.
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello World";
+    return 0;
+}
+
+Output:
+ Hello World
